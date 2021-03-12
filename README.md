@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samrat19
+- 👋 Hi, I’m Atri
 - 👀 I’m interested in @Flutter
 - 🌱 I’m currently learning some backend stuff
 - 💞️ I’m looking to collaborate on Projects which are on Flutter or want to migrate to Flutter
