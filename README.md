@@ -8,3 +8,5 @@
 samrat19/samrat19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src = 'https://github-readme-stats.vercel.app/api?username=samrat19&&show_icons=true&title_color=228af2&icon_color=ffa200&text_color=b4d2d6&bg_color=151515'>
